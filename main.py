@@ -14,7 +14,7 @@ headers = {
 }
 r = requests.get('https://api.purpleair.com/v1/sensors?fields=pm2.5&location_type=0&nwlng=37.8578571822&nwlat=-122'
                  '.1112824826&selng=37.9347574986&selat=-122.0120455888', headers=headers)
-response = r.json()   #    ^^ bounding box coordinates for Walnut Creek
+response = r.json()  
 #print(response)
 
 
