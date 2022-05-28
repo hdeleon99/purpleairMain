@@ -85,6 +85,4 @@ while yes_or_no == 'y' or yes_or_no == 'yes':  # loop that allows user to view d
 #
 # ask user if they would like to see other types of data from the same sensor
 #
-#
-# other project ideas:
-# riddle solver? pull random riddles from the web with single word answers and ask the user to solve them
+
